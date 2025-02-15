@@ -9,7 +9,7 @@ import NotLogin from '../NotLogin'
 import SignIn from '../SignIn'
 import LogIn from '../LogIn'
 import Navbar  from '../../Components/Navbar'
-import CheckoutSideMenu from '../../Components/CheckOutSideMenu'
+import CheckoutSideMenu from '../../Components/CheckoutSideMenu'
 import './App.css'
 
 const AppRoutes = ()=>{
